@@ -1,4 +1,4 @@
-package com.tarang.newsapp.ui.theme
+package com.tarang.newsapp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

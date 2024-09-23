@@ -1,4 +1,4 @@
-package com.tarang.newsapp.ui.theme
+package com.tarang.newsapp.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
