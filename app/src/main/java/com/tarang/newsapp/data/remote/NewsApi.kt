@@ -1,6 +1,7 @@
 package com.tarang.newsapp.data.remote
 
 import com.tarang.newsapp.common.Constants.API_KEY
+import com.tarang.newsapp.data.remote.dto.NewsResponseDto
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query

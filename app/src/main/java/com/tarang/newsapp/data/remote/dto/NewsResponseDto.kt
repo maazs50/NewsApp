@@ -1,8 +1,5 @@
-package com.tarang.newsapp.data.remote
+package com.tarang.newsapp.data.remote.dto
 
-import com.tarang.newsapp.data.remote.dto.ArticleDto
-import com.tarang.newsapp.data.remote.dto.toArticle
-import com.tarang.newsapp.domain.model.Article
 import com.tarang.newsapp.domain.model.NewsResponse
 
 data class NewsResponseDto(
